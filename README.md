@@ -1,5 +1,5 @@
 # StereoTool
-Stereo Tool Settings for FM Stack ZuidWest FM (Netherlands)
+Stereo Tool Settings for FM over IP Stack ZuidWest FM (Netherlands)
 
 - streaming.sts = phase rotation, smooth agc, stereo, multiband, bass boost, advanced clipper (basic licence)
 - STL-MPX-FM_ZWFM.sts = only stereo, rds, stokkemask, advanced clipper, MPX clipper (fm standard licence)
