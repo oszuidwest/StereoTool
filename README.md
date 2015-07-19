@@ -11,3 +11,4 @@ Stereo Tool Settings for FM Stack ZuidWest FM (Netherlands)
 - Install MARIAN Drivers (http://www.marian.de/en/products/trace_alpha)
 - Load STL-MPX-FM_ZWFM.sts 
 - Load STL-MARIAN.mxi
+- Connect MPX-in from transmitter to OUT 1 (analog)
