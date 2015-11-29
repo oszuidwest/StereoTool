@@ -8,6 +8,7 @@ Stereo Tool Settings for FM over IP Stack ZuidWest FM (Netherlands)
 # Usage
 - Install Windows 7
 - Install Stereo Tool (http://www.stereotool.com/download/)
+- Install latest VLC Player (http://www.videolan.org/vlc/)
 - Install MARIAN Drivers (http://www.marian.de/en/products/trace_alpha)
 - Load STL-MPX-FM_ZWFM.sts 
 - Load STL-MARIAN.mxi
