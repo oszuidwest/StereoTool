@@ -28,7 +28,7 @@ Composite clipping - Not for low frequencies=1
 Composite clipping - Single Side Band mode=0
 Composite clipping - Use oversampling during pre-clipping=1
 Compposite clipping - Clip demodulated peaks at=1.200000048
-Compposite clipping - Extra loudness=1.169999957
+Compposite clipping - Extra loudness=1.159999967
 De-basser pumping vs. bass reduction=0
 De-basser threshold (dB)=1
 De-esser threshold (dB)=1
@@ -65,7 +65,7 @@ Bass protection - Smoothe mid frequencies=4
 Bass protection - Smoothe peak detection steepness=0.300000012
 Bass protection - Two steps=0
 CPU usage - Quality (new style)=1
-Extra loudness=1.129999995
+Extra loudness=1.100000024
 Extra loudness - Advanced Bass Protection=1
 Extra loudness - Airy highs detection - tone sensitivity=0.5
 Extra loudness - Airy highs multiplier - long=1
@@ -649,7 +649,9 @@ Pre-limiter relative volume=1.75
 Reduced CPU processing=0
 [Lossy compression output optimization]
 Enabled=0
+Enabled FM=0
 Spike Protation pre-emphasis time=15
+Spike Protation pre-emphasis time FM=0
 [Low latency output]
 ASIO Override channel 1=2
 ASIO Override channel 2=3
