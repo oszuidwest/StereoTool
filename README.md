@@ -13,3 +13,6 @@ Stereo Tool Settings for FM over IP Stack ZuidWest FM (Netherlands)
 - Load STL-MPX-FM_ZWFM.sts 
 - Load STL-MARIAN.mxi
 - Connect MPX-in from transmitter to OUT 1 (analog)
+
+# To-do
+- Use ASIO instead of Windows Audio
