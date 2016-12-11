@@ -706,6 +706,8 @@ Pre-amp=1
 Pre-limiter enabled=0
 Pre-limiter relative volume=1.75
 Reduced CPU processing=0
+[I/O self test]
+Run self test - Directory=
 [Lossy compression output optimization]
 Enabled=0
 Enabled FM=0
@@ -3457,8 +3459,10 @@ Affinity GUI=4294967295
 Affinity GUI - list=Any
 Affinity Input=4294967295
 Affinity Input - list=Any
-Affinity Low Latency Processing main 1=4294967295
-Affinity Low Latency Processing main 2=4294967295
+Affinity Low Latency Processing LQLL 1=4294967295
+Affinity Low Latency Processing LQLL 2=4294967295
+Affinity Processing LQLL - list=Any
+Affinity Processing LQLL - list 2=Any
 Affinity Processing main=4294967295
 Affinity Processing main - list=Any
 Affinity Processing main - list 2=Any
