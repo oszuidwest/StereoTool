@@ -1,9 +1,8 @@
 # StereoTool
 Stereo Tool Settings for FM over IP Stack ZuidWest FM (Netherlands)
 
-- streaming.sts = phase rotation, smooth agc, stereo, multiband, bass boost, advanced clipper (basic licence)
-- STL-MPX-FM_ZWFM.sts = only stereo, rds, stokkemask, advanced clipper, MPX clipper (fm standard licence)
-- STL-MARIAN.mxi = configration file for Marian Trace Alpha (w/STL-MPX-FM_ZWFM.sts)
+- STL met RDS via cloud.sts = only stereo, rds, stokkemask, advanced clipper, MPX clipper (fm standard licence)
+- STL-MARIAN.mxi = configration file for Marian Trace Alpha
 
 # Usage
 - Install Windows 7
