@@ -1,3 +1,5 @@
+# ⚠️ This repository is deprecated. We switched to MicroMPX and are no longer using StereoTool at transmitter sites. Please check out the [new client]([url](https://github.com/oszuidwest/rpi-umpx-decoder)) and [new server]([url](https://github.com/oszuidwest/liquidsoap-ubuntu)) configuration.
+
 # StereoTool
 Stereo Tool Settings for FM over IP Stack ZuidWest FM (Netherlands)
 
